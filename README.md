@@ -1,2 +1,3 @@
 # Windows-Permissions-Remover
-remove system permissions
+1. **This remove system permissions.**
+2. **If you destroy any system file, I am not responsible for any ***damage***.**
